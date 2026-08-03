@@ -3,13 +3,13 @@
   To spread awareness among society about water purification and water purification using environment friendly sources.
 
 2. Objective:- 
-  1. To study the purification ability of 'Canna Indica' and 'Typha Angustifolia'.
-  2. To develop a floating plantation system that allows plant to survive even when the water level increses.
-  3. To spread awareness about drinking clean and boiled water.
-  4. To promote an eco-friendly and low-cost water purification method.
+  i. To study the purification ability of 'Canna Indica' and 'Typha Angustifolia'.
+  ii. To develop a floating plantation system that allows plant to survive even when the water level increses.
+  iii. To spread awareness about drinking clean and boiled water.
+  iv. To promote an eco-friendly and low-cost water purification method.
 
 3. Team Members:-
-  1. Ojas Kate
-  2. Anuradha Jadhav
-  3. Shradha Kumbhar
-  4. Poonam Kokane
+  i. Ojas Kate
+  ii. Anuradha Jadhav
+  iii. Shradha Kumbhar
+  iv. Poonam Kokane
